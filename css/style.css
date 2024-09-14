@@ -1,0 +1,51 @@
+.title {
+    text-align: center;
+}
+
+.btn-counter {
+    width: 150px;
+}
+
+.action-block {
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    padding-top: 25px;
+    width: 1000px;
+    margin:  0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.text-center {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.form {
+    width: 200px;
+    padding: 10px 10px 0;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.new-component {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.task-3 {
+    border: 1px solid black; 
+    border-radius: 10px;
+    width: 40%;
+    padding: 10px 0;
+}
+
+
